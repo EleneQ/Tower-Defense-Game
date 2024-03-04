@@ -1,0 +1,13 @@
+Player Experience:
+Feeling of strategic planning.
+
+Core Mechanic:
+Plcaing towers that shoot enemies.
+
+Core Game Loop:
+Place towers to kill enemies in order to stop enemies from reaching the player's base and causing damage.
+
+Game Theme:
+Sci Fi robot enemies doing robotic things in robotic ways :).
+
+Making MVP features.
